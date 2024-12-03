@@ -3,7 +3,7 @@
 
 ## Скриншот
 
-![](https://github.com/zhaslan_dusaev_20421_news/blob/main/News.gif)
+![](https://github.com/Zhastik/zhaslan_dusaev_20421_news/blob/main/News.gif)
 
 ![alt text](https://github.com/Zhastik/zhaslan_dusaev_20421_news/blob/main/home.png)
 
