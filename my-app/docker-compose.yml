@@ -1,7 +1,6 @@
 version: '3.8'
 
 services:
-  # Сервис для PostgreSQL
   db:
     image: postgres:14
     container_name: postgresql
@@ -14,7 +13,6 @@ services:
     ports:
       - "5432:5432"
   
-  # Сервис для Next.js
   next:
     build:
       context: .
