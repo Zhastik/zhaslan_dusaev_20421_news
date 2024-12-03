@@ -3,11 +3,11 @@
 
 ## Скриншот
 
-![](https://github.com/Zhaslan_Dusaev_20421_NEWS/News.gif)
+![](https://github.com/zhaslan_dusaev_20421_news/News.gif)
 
-![alt text](https://github.com/Zhastik/Zhaslan_Dusaev_20421_NEWS/home.png)
+![alt text](https://github.com/Zhastik/zhaslan_dusaev_20421_news/home.png)
 
-![alt text](https://github.com/Zhastik/Zhaslan_Dusaev_20421_NEWS/page.png)
+![alt text](https://github.com/Zhastik/zhaslan_dusaev_20421_news/page.png)
 
 ## Пояснение
 
