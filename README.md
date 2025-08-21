@@ -1,7 +1,5 @@
 ## Скриншот
 
-![](https://github.com/Zhastik/zhaslan_dusaev_20421_news/blob/main/News.gif)
-
 ![alt text](https://github.com/Zhastik/zhaslan_dusaev_20421_news/blob/main/home.png)
 
 ![alt text](https://github.com/Zhastik/zhaslan_dusaev_20421_news/blob/main/page.png)
